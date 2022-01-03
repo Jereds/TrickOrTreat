@@ -1,0 +1,9 @@
+name: TrickOrTreat
+main: me.jereds.trickortreat.TrickOrTreat
+version: 1.0
+authors: [Jereds]
+api-version: 1.16
+depend: [PluginPrefix]
+commands:
+  candies:
+    description: hello
